@@ -3,5 +3,7 @@
 # c o'zgaruvchiga 5 ni taminlang;
 # a, b, c o'zgaruvchilar yig'indisini chop eting;
 
-a, b, c = 7, 3, 5
+a = 7
+b = 3
+c = 5
 print(a + b + c)
