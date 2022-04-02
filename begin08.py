@@ -3,5 +3,7 @@
 # c o'zgaruvchiga 8 ni taminlang;
 # Quyidagi ifodani natijaga chop eting: ab / c
 
-a, b, c = 5, 4, 8
+a = 5
+b = 4
+c = 8
 print(a * b / c)
