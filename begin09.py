@@ -4,6 +4,10 @@
 # d o'zgaruvchiga 4 ni taminlang;
 # Quyidagi ifodani natijaga chop eting: (K = a + b - cd)
 
-a, b, c, d = 8, 3, 2, 4
+a = 8
+b = 3
+c = 2
+d = 4
+
 K = a + b - c * d
 print(K)
